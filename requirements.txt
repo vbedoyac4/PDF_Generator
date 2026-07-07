@@ -1,4 +1,5 @@
 streamlit
 pymupdf
-pandas
 reportlab
+pypdf2
+pandas
